@@ -1,0 +1,254 @@
+body { background-image: radial-gradient(yellow, #5EA9C4);
+       font-family:arial, sans-serif;
+	  
+     }
+#wrapper { width: 80%;
+           margin-left:auto;
+		   margin-right:auto;
+		   background-color:#5ec2c4;
+		   
+		 }
+header {color:#ffffff;
+        padding-bottom:25px;
+		background-image: url(croftons.jpg);
+		background-repeat:no-repeat;
+         text-align:center;
+		 
+	   }
+header h1 {text-align:center;
+           margin-bottom: 55px;
+		   margin-top:10px;
+		   margin-left:99px;
+		   padding-top:15px;
+		
+}
+#homehead { text-align:center;
+            margin-bottom: 55px;
+		   margin-top:10px;
+		   margin-left:199px;
+		   padding-top:15px;
+		   
+}
+		
+nav { float: left;
+      width:90px;
+	  padding:5px;
+	  background-color:#5ec2c4;
+	  list-style-type:none;
+	  overflow:hidden;
+	  position:fixed;
+	  
+	  
+}
+
+nav a { list-style-type:none;
+        border:3px inset #919191;
+		box-shadow:3px 3px 3px 3px inset #919191;
+		background-color:#c8f288;
+		padding-top:6px;
+		padding-right:28px;
+		padding-left:12px;
+		display:block;
+		width:50px;	
+        font-size:14px;
+		margin-bottom:5px;
+		margin-top:5px;
+		font-size:1.1em;
+		margin-right: 5px;
+		
+		
+}
+
+
+a:link {color:black;
+       text-decoration:none;
+}
+a:visited{color:#910F20;}
+a:hover{background-color:#ceeced;}
+
+
+.one {font-size:1em;
+      font-weight:bold;
+	  color:#910F00;
+	 }
+.two {font-size:1em;
+      font-weight:bold;
+	  color:#910F00;
+	 }
+.three { font-size:1em;
+         font-weight:bold;
+	     color:#910F00;
+	}
+.ctp115 {color:#910F20;
+             font-weight:bold;
+}
+.ctp118 {color: #910F20;
+             font-weight:bold;}
+}
+h1{margin:0;
+   padding:10px;
+}
+h2 { padding-left:6px;
+     margin:0;
+     font-size:1.6em;
+	 overflow:hidden;
+
+}
+
+main {margin-left:100px;
+      
+     padding:10px;
+	 background-color:#ceeced;
+	 color: #000000;
+}
+#home {text-align: center;
+       background-color:#C8F288;
+	   margin-left: -10px;
+	   	   margin-right: -10px;
+}
+ol{ padding-left:38px;
+    font-size:1.2em;
+}
+
+
+ul {font-size:1.2em;}
+
+aside ul { list-style-type:none;}
+
+dl {font-size:1.2em;
+    padding-left:25px;
+}
+
+
+aside {border: 3px black outset;
+       box-shadow:3px 3px 3px 3px inset grey;
+       border-radius:32px;
+	   text-align:center;
+	   font-style:italic;
+	   float:right;
+	   background-color:#5ec2c4;
+	  
+	   width:22%;
+	   margin-left:33px;
+	   padding-top:3px;
+	   display:block;
+	   
+	   }
+
+#a2 {margin-top:15px;
+     padding-bottom:2px;
+	 margin-left:7px;
+     
+    }
+#a2 a {font-size:.90em;
+	
+}
+
+		
+#a2 a:link {color:black;
+        border:3px inset #919191;
+		box-shadow:3px 3px 3px 3px inset #919191;
+		background-color:#c8f288;
+	    display:block;
+		margin-top:5px;
+		margin-bottom:5px;
+		padding-right:0px;
+		padding-left:0px;
+}
+
+#a2 a:visited {color: #910F00;
+               border:3px inset #919191;
+		       box-shadow:3px 3px 3px 3px inset #919191; 
+}
+#a2 a:hover { background-color:#ceeced;}
+#a2 ul {padding-right:14px;}
+#a3{float:right;
+    background-color:white;
+ }
+p { padding-left:18px;
+    font-size:1.2em;
+    
+    
+ }
+#towson{background-image:url(towsonsign.jpg);
+background-repeat:no-repeat;
+	background-position:center;
+	padding-bottom:312px;
+	margin-bottom: 5px;
+	background-size:100% 100%;
+	}
+#images img{ border-radius: 20px;
+			 padding-left: 5px;
+			 padding-right:5px;
+			 margin-left:5px
+			 
+			 
+		}
+.image1 {   padding-right:3px;
+             margin-left:10px;
+			 margin:20px;
+            border-radius: 20px;
+ }
+.image2 { border-radius: 20px;
+          padding-left:5px;
+		  padding-right:3px;
+		  margin-left:10px;
+		  margin:20px;
+		}
+.image3 { border-radius: 20px;
+          margin-left:10px;
+			 margin:20px;
+		  padding-left:5px;
+		  }
+.bold { font-weight:bold;}
+#internal { color:#000000;
+           text-decoration:underline;
+}
+footer { background-color:#c8f288;
+        text-align:center;
+		padding-bottom:5px;
+		
+		}
+	 
+figure { display:inline-block;
+		 white-space: normal;
+		}
+figcaption { text-align:center;
+             font-style: italic;
+}
+		
+#images {white-space:normal;
+		 background-color: #C8F288;
+		  margin-left: -10px;
+		  margin-right: -10px;
+}
+#family { background-color: #C8F288;
+          margin-left: -10px;
+		  margin-right: -10px;
+		  text-align: center;
+		  font-size:1.1em;
+	
+		  
+		 
+
+}
+#show  { font-size:1em;
+
+			 
+}
+#show ul { 
+	 font-size:1.1em;
+	 }
+.flash{ color:#910F00;
+        font-weight:bold;
+		 
+}
+.iron { color:#910F00;
+        font-weight:bold;
+	 }
+.cage { color:#910F00;
+        font-weight:bold;
+}
+
+
+         
